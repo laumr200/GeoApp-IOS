@@ -1,4 +1,5 @@
-✈️ Project Overview: Airport Catalogue in SwiftUI
+✈️ Project Overview: Airport Catalogue in SwiftUI.
+
 This SwiftUI project is an interactive catalogue of airports around the world. It loads airport data from a text file, parses it into structured objects, and allows users to view airport details including name, code, location, and coordinates. It also includes reverse geolocation to display human-readable addresses and allows opening airport locations in Apple Maps.
 
 📁 Main Components and Files
