@@ -4,6 +4,7 @@ This SwiftUI project is an interactive catalogue of airports around the world. I
 
 📁 Main Components and Files
 1. Aeroport.swift – Airport Model
+   
 This file defines the Aeroport class which stores all relevant data about an airport:
 
 identification – OpenFlights ID.
@@ -23,6 +24,7 @@ location – Computed property returning a CLLocation.
 It includes an initializer that takes a line from a CSV-style data file (airports.txt) and extracts the relevant fields.
 
 2. Catalogue.swift – Airport Catalogue Manager
+   
 This class loads the airport data from the airports.txt file. It:
 
 Parses each line and creates Aeroport objects.
